@@ -8,7 +8,7 @@ public class Application {
 		System.out.println("clickup change..");
 		
 		
-		System.out.println("Hello test");
+		System.out.println("test");
 		System.out.println("change..");
 		
 		
